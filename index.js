@@ -3,11 +3,3 @@ function takeANumber (katzDeliLine, name){
   katzDeliLine.push(name)
 return "Welcome, " + name +". You are number "+ position +" in line."
 }
-
-function nowServing(katzDeliLine){
-var name;
-
-if(deliLine.length == 0){
-  return "There is nobody waiting to be served!"
-}
-}
